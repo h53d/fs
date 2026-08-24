@@ -1,4 +1,4 @@
-# ForgeShape App Store policy support
+# ForgeShape App Docs Online
 
 Pages follow the STEP Reviewer policy-support layout and describe the current
 ForgeShape runtime: on-device print checking, dual-lane repair, format conversion,
